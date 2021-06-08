@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hello Bulma!</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.2/css/bulma.min.css">
+</head>
+<body>
+
+    <div class="container is-fluid">
+     
+      <!-- Page Title -->
+      <section class="section">
+        <div class="container">
+          <h1 class="title has-text-centered">
+            Django Templates
+          </h1>
+          <p class="has-text-centered subtitle">
+            Simple starter page styles with <a target="_blank" href="https://bulma.io/">Bulma</a>
+          </p>
+          <br />
+          <p class="has-text-centered">
+            {% include "includes/footer.html" %}
+          </p>
+            
+        </div>
+      </section>
+      <hr>
+
+      <!-- Buttons -->  
+      <div class="container is-fluid">
+
+        <section class="section has-background-primary">
+            <div class="container">
+            <h2 class="title has-text-centered has-text-white">Buttons</h2>
+            <p class="has-text-centered subtitle has-text-white">Styled with Bulma</p>
+            </div>
+        </section>
+        <hr>
+
+        <section class="hero">
+            <div class="hero-body">
+                <div class="container has-text-centered">
+                    <button class="button is-primary is-small">Small</button>
+                    <button class="button is-link">Default</button>
+                    <button class="button is-warning is-normal">Normal</button>
+                    <button class="button is-success is-medium">Medium</button>
+                    <button class="button is-danger  is-large">Large</button>
+                </div>
+                <br />
+                <div class="container has-text-centered">
+                    <button class="button is-rounded is-primary is-small">Small</button>
+                    <button class="button is-rounded is-link">Default</button>
+                    <button class="button is-rounded is-warning is-normal">Normal</button>
+                    <button class="button is-rounded is-success is-medium">Medium</button>
+                    <button class="button is-rounded is-danger  is-large">Large</button>
+                </div>
+                <br />
+                <div class="container has-text-centered">
+                    <p class="has-text-centered">
+                        <button class="button">
+                            <span class="icon">
+                            <i class="fab fa-github"></i>
+                            </span>
+                            <span>GitHub</span>
+                        </button>
+                        <button class="button is-primary">
+                            <span class="icon">
+                            <i class="fab fa-twitter"></i>
+                            </span>
+                            <span>@jgthms</span>
+                        </button>
+                        <button class="button is-success">
+                            <span class="icon is-small">
+                            <i class="fas fa-check"></i>
+                            </span>
+                            <span>Save</span>
+                        </button>
+                        <button class="button is-danger is-outlined">
+                            <span>Delete</span>
+                            <span class="icon is-small">
+                            <i class="fas fa-times"></i>
+                            </span>
+                        </button>
+                    </p>
+                </div>
+
+            </div>
+        </section>
+        <hr>
+
+      </div>
+
+      <!-- Contact -->  
+      <div class="container is-fluid">
+
+        <section class="section has-background-primary">
+            <div class="container">
+            <h2 class="title has-text-centered has-text-white">Contact Components</h2>
+            <p class="has-text-centered subtitle has-text-white">Contact components styled with Bulma</p>
+            </div>
+        </section>
+        <hr>
+
+        <section class="section">
+            <div class="container">
+            <h2 class="title has-text-centered">Bulma Contact Form - Image Left</h2>
+            <div class="columns">
+                <div class="column is-6">
+                    <img src="https://appsrv1-147a1.kxcdn.com/bulma-css-starter/media/contact.svg" alt=""></div>
+                <div class="column is-6">
+                <form>
+                    <div class="field">
+                    <div class="control">
+                        <input class="input" type="email" placeholder="Email">
+                    </div>
+                    </div>
+                    <div class="field">
+                    <div class="select is-fullwidth">
+                        <select>
+                        <option disabled selected>Select product</option>
+                        <option>Product 1</option>
+                        <option>Product 2</option>
+                        <option>Product 3</option>
+                        </select>
+                    </div>
+                    </div>
+                    <div class="field">
+                    <div class="control">
+                        <textarea class="textarea" rows="5" placeholder="Write something..."></textarea>
+                    </div>
+                    </div>
+                    <div class="field">
+                    <div class="control">
+                        <button class="button is-primary is-fullwidth" type="submit">Submit</button>
+                    </div>
+                    </div>
+                </form>
+                </div>
+            </div>
+            </div>
+        </section>
+
+      </div>
+      <hr>
+
+    </div>
+  
+</body>
+</html>
