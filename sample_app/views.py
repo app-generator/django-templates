@@ -13,7 +13,12 @@ from django import template
 
 def pages(request):
 
-    context        = {}
+    context ={
+        "variable":"Simple Variable Injection",
+        "bool_var":True,
+        "list":[1, 2, 3, 4, 5]
+    }
+
     requested_html = request.path.split('/')[-1]
     
     if not requested_html or requested_html == '':
