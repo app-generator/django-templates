@@ -21,7 +21,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-!ujysbe@uiw6%+5v%0j2$_$jo@48(0p+9y6ppfkdf+%4rsv=rd'
+SECRET_KEY = 'UPDATE_KEY_HERE'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -52,12 +52,12 @@ MIDDLEWARE = [
 ]
 
 ROOT_URLCONF = 'config.urls'
-TEMPLATE_DIR = os.path.join(BASE_DIR, "templates")  # ROOT dir for templates
+TEMPLATES_DIR = os.path.join(BASE_DIR, "templates")  # ROOT dir for templates
 
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [TEMPLATES_DIR],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
