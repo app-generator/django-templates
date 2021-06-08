@@ -4,6 +4,12 @@ Cheat-sheat project for Django to showcase the template system. For newcomers, D
 
 <br />
 
+<p align="center">
+![image](https://user-images.githubusercontent.com/51070104/121209834-dc772980-c883-11eb-848b-03dabe31835b.png)
+</p>
+
+<br />
+
 **How to build the project**
 
 > **Step #1** - Clone the sources
