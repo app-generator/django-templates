@@ -1,6 +1,13 @@
 # Django Templates
 
-Cheat-sheat project for **Django** to showcase the template system. For newcomers, **Django** is a high-level Python Web framework that encourages rapid development by reusing modules and libraries built by experienced programmers. [Django Templates](https://docs.appseed.us/content/getting-started-with/django-templates) help us to build dynamic pages, reuse components and code faster web applications. 
+Cheat-sheat project for **Django Template** system to showcase the configuration and dynamic HTML page rendering. For newcomers, **Django** is a high-level Python Web framework that encourages rapid development by reusing modules and libraries built by experienced programmers. [Django Templates](https://dev.to/sm0ke/django-templates-short-introduction-and-free-samples-2878) help us to build dynamic pages, reuse components and code faster web applications. 
+
+<br />
+
+> Links
+
+- [Django Templates](https://docs.appseed.us/content/getting-started-with/django-templates) - a comprehensive guide | AppSeed Docs
+- [Django Templates](https://dev.to/sm0ke/django-templates-short-introduction-and-free-samples-2878) a popular related article published on Dev
 
 <br />
 
