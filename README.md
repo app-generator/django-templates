@@ -131,7 +131,7 @@ On access the `ROOT` of the app or simply `index.html` a simple file is served f
 
 ## Resources
 
-- [Django Templates](https://djangobook.com/mdj2-django-templates/) - a free chapter from The Django Book 
+- [Django Templates](https://djangobook.com/mdj2-django-templates/) - a free chapter from `The Django Book` 
 - [Django Templates](https://www.geeksforgeeks.org/django-templates/) - a really nice article provided by `GeeksForGeeks` platform
 
 <br />
