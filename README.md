@@ -1,6 +1,6 @@
-# Django Templates
+# [Django Templates](https://app-generator.dev/admin-dashboards/django/)
 
-Cheat-sheat project for **Django Template** system to showcase the configuration and dynamic HTML page rendering. For newcomers, **Django** is a high-level Python Web framework that encourages rapid development by reusing modules and libraries built by experienced programmers. [Django Templates](https://dev.to/sm0ke/django-templates-short-introduction-and-free-samples-2878) help us to build dynamic pages, reuse components and code faster web applications. 
+Cheat-sheat project for **[Django Template](https://app-generator.dev/admin-dashboards/django/)** system to showcase the configuration and dynamic HTML page rendering. For newcomers, **Django** is a high-level Python Web framework that encourages rapid development by reusing modules and libraries built by experienced programmers. **Django Templates** help us to build dynamic pages, reuse components and code faster web applications. 
 
 <br />
 
