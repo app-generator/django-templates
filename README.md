@@ -142,4 +142,4 @@ On access the `ROOT` of the app or simply `index.html` a simple file is served f
 <br />
 
 ---
-Django Templates - Open-source template project provided by AppSeed [App Generator](https://appseed.us) 
+Django Templates - Open-source template project provided by AppSeed [App Generator](https://app-generator.dev) 
