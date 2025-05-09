@@ -1,26 +1,84 @@
-# [Django Templates](https://app-generator.dev/admin-dashboards/django/)
+# [Django Templates](https://app-generator.dev/product/?search=django)
 
-Cheat-sheat project for **[Django Template](https://app-generator.dev/admin-dashboards/django/)** system to showcase the configuration and dynamic HTML page rendering. For newcomers, **Django** is a high-level Python Web framework that encourages rapid development by reusing modules and libraries built by experienced programmers. **Django Templates** help us to build dynamic pages, reuse components and code faster web applications. 
+Cheat-sheat project for **[Django Template](https://app-generator.dev/product/?search=django)** system to showcase the configuration and dynamic HTML page rendering. For newcomers, **Django** is a high-level Python Web framework that encourages rapid development by reusing modules and libraries built by experienced programmers. **Django Templates** help us to build dynamic pages, reuse components, and code faster web applications. 
 
 <br />
+
+## [Getting Started with Django](https://app-generator.dev/docs/technologies/django/index.html)
+
+Django is an opinionated framework that provides a complete set of tools for web development, from URL routing to form handling and user authentication. It promotes best practices in web development through its structure and conventions, encouraging developers to write maintainable and scalable code. Django’s middleware system allows for global processing of requests and responses, enabling the implementation of complex features like session handling and caching with minimal effort.
+
+```bash
+$ pip install django
+```
+
+<br />
+
+### Free Django Templates
+
+> A curated list with Django Dashboards actively supported by the **App-Generator** Platform. 
+
+### [Django AdminLTE](https://app-generator.dev/product/adminlte/django/)
+
+**Open-source Django Starter** crafted on top of **[AdminLTE](https://app-generator.dev/product/adminlte/)**, an open-source `Bootstrap` Design. The product is designed to deliver the best possible user experience with highly customizable, feature-rich pages. 
+
+- 👉 [Django AdminLTE](https://app-generator.dev/product/adminlte/django/) - `Product Page`
+- 👉 [Django AdminLTE](https://django-adminlte.onrender.com) - `LIVE Demo`
 
 ---
 
-> For a **complete set of features** and long-term support, check out **[Dynamic Django](https://app-generator.dev/docs/developer-tools/dynamic-django/index.html)**, a powerful starter that incorporates:
+- Simple, Easy-to-Extend Codebase
+- [AdminLTE](https://app-generator.dev/product/adminlte/) Design Integration 
+- [Bootstrap](https://app-generator.dev/docs/templates/bootstrap.html) CSS Styling 
+- Session-based Authentication, Password recovery
+- DB Persistence: SQLite (default), can be used with MySql, PgSql
+- Apps:
+  - [DEMO](https://django-adminlte.onrender.com/dynamic-dt/product/) **Dynamic DataTables** - generate server-side datatables without coding
+  - [DEMO](https://django-adminlte.onrender.com/api/) **Dynamic APIs** - Expose secure APIs without coding  
+  - [DEMO](https://django-adminlte.onrender.com/charts/) **Charts** - powered by ApexCharts 
+- [Django CLI Package](https://app-generator.dev/docs/developer-tools/django-cli/index.html)
+    - `Commit/rollback Git Changes`
+    - `Backup & restore DB`
+    - `Interact with Django Core`
+    - `Manage Environment`
+    - `Manage Dependencies`  
+- [Deployment](https://app-generator.dev/docs/deployment.html)
+  - Docker/Docker Compose Scripts 
+  - CI/CD for [Render](https://app-generator.dev/docs/deployment/render/index.html)
 
-- ✅ [Dynamic DataTables](https://app-generator.dev/docs/developer-tools/dynamic-django/datatables.html): using a single line of configuration, the data saved in any table is automatically managed
-- ✅ [Dynamic API](https://app-generator.dev/docs/developer-tools/dynamic-django/api.html): any model can become a secure API Endpoint using DRF
-- ✅ [Dynamic Charts](https://app-generator.dev/docs/developer-tools/dynamic-django/charts.html): extract relevant charts without coding all major types are supported
-- ✅ [CSV Loader](https://app-generator.dev/docs/developer-tools/dynamic-django/csv-loader.html): translate CSV files into Django Models and (optional) load the information
-- ✅ Powerful [CLI Tools](https://app-generator.dev/docs/developer-tools/dynamic-django/cli.html) for the GIT interface, configuration editing, updating the configuration and database (create models, migrate DB)
+![Django AdminLTE - Open-Source Django Starter ](https://github.com/app-generator/django-adminlte/assets/51070104/8f0c396d-2f33-46b9-9689-2982c987399d)
 
 <br />
 
-<p align="center">
-    
-![Django Templates - The cover of this project.](https://user-images.githubusercontent.com/51070104/121209834-dc772980-c883-11eb-848b-03dabe31835b.png)
+### [Django Datta Able](https://app-generator.dev/product/datta-able/django/)
 
-</p>
+Open-source **Django** project crafted on top of **[Datta Able](https://app-generator.dev/product/datta-able/)**, an open-source `Bootstrap` design released by [CodedThemes](https://app-generator.dev/agency/codedthemes/).
+The product is designed to deliver the best possible user experience with highly customizable, feature-rich pages. 
+
+- 👉 [Django Datta Able](https://app-generator.dev/product/datta-able/django/) - `Product Page`
+- 👉 [Django Datta Able](https://django-datta.onrender.com) - `LIVE Demo`
+
+---
+
+- Simple, Easy-to-Extend Codebase
+- **[Datta Able](https://app-generator.dev/product/datta-able/)** Design Integration 
+- **Dynamic Tables** - generate data tables without coding 
+- **Dynamic API** - expose secure APIs without coding
+- **CLI for Coding Tasks**
+  - `Commit/rollback Git Changes`
+  - `Backup & restore DB`
+  - `Interact with Django Core` via CLI
+  - `Update Environment variables`
+  - `Update Dependencies`  
+- Bootstrap 5 Styling 
+- Session-based Authentication, Password recovery
+- DB Persistence: SQLite (default), can be used with MySql, PgSql
+- Docker, CI/CD for Render
+- Vite for assets management 
+
+![Django Datta Able - Open-Source Django Starter](https://user-images.githubusercontent.com/51070104/176118649-7233ffbc-6118-4f56-8cda-baa81d256877.png)
+
+<br />
 
 <br />
 
@@ -142,4 +200,4 @@ On access the `ROOT` of the app or simply `index.html` a simple file is served f
 <br />
 
 ---
-Django Templates - Open-source template project provided by AppSeed [App Generator](https://app-generator.dev) 
+**[Django Templates](https://app-generator.dev/product/?search=django)** - Open-source project provided by [App Generator](https://app-generator.dev) 
