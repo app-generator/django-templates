@@ -4,6 +4,16 @@ Cheat-sheat project for **[Django Template](https://app-generator.dev/product/?s
 
 <br />
 
+## `PROMO` Domains for sale
+
+- 👉 **[AppSeed.us - $49k](https://appseed.us/)**
+- 👉 **[Admin-Dashboards.com - $15k](https://www.admin-dashboards.com/)**
+- 👉 **[UI-Themes.com - $5k](https://ui-themes.com/)**
+- 👉 **[Simpllo.com - $10k](https://www.simpllo.com/)**
+- 👉 **[123SiteBuilder.net - $5k](https://www.123sitebuilder.net/)**
+
+<br />
+
 ## [Getting Started with Django](https://app-generator.dev/docs/technologies/django/index.html)
 
 Django is an opinionated framework that provides a complete set of tools for web development, from URL routing to form handling and user authentication. It promotes best practices in web development through its structure and conventions, encouraging developers to write maintainable and scalable code. Django’s middleware system allows for global processing of requests and responses, enabling the implementation of complex features like session handling and caching with minimal effort.
